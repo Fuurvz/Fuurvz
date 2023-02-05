@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fuurvz
 - 👀 I’m interested in Game Developement, NodeJS and Python.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking forward to collaborate on MIT's Computer Science Campus.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking forward to study Software Engineering in University
 - 
 - 📫 How to reach me:
 - Gmail: ardamese@gmail.com, 
